@@ -1,0 +1,40 @@
+KIPOS SVN URLS
+------------------
+
+http://192.168.0.66:18080/svn/KIPOS_Admin/trunk/Application  --Admin Angular KIPOS
+
+http://192.168.0.66:18080/svn/Kipos-LIVE-AJS/trunk/Application  -- Online Angular JS KIPOS
+
+http://192.168.0.66:18080/svn/Kipos-LIVE-WEBAPI/trunk/Application --Web Api KIPOS
+
+http://192.168.0.66:18080/svn/Kipos-LIVE-NOP/trunk/Application   ---Nop KIPOS
+
+http://192.168.0.66:18080/svn/Kipos_POS_Angular/trunk/Application  --POS Angular KIPOS
+
+
+VAYA SVN URLS
+----------------
+
+http://192.168.0.66:18080/svn/VAYAECOMMERCEAPI/trunk/Application ---VAYANop
+
+
+http://192.168.0.66:18080/svn/VAYAEFRAMEWORKAPI/trunk/Application  ---VAYAMembership
+
+
+http://192.168.0.66:18080/svn/VAYAWEB/trunk/Application  --VAYA web
+
+http://192.168.0.66:18080/svn/VAYAADMINWEB/trunk/Application  ---VAYA Admin Web
+
+NUQI SVN URLS
+----------------
+
+http://192.168.0.66:18080/svn/Nuqi-Angular8/trunk/Application  --Online Angular Site NUQI
+
+http://192.168.0.66:18080/svn/Nuqi_Member_Admin/trunk/Application  --Admin Angular NUQI
+
+http://192.168.0.66:18080/svn/Kipos-Ajay-WEBAPI/trunk/Application  --Web Api NUQI
+
+http://192.168.0.66:18080/svn/Kipos-Ajay-NOP/trunk/Application --NOP NUQI
+
+
+
